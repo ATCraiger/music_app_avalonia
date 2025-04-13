@@ -14,7 +14,7 @@
         <StyleInclude Source="Icons.axaml"></StyleInclude>
     </Application.Styles>
              
-     <!-- Window Stlying -->
+     <!-- Window Stlying 
      <Application.Resources>
          <ExperimentalAcrylicMaterial 
              x:Key="WindowStyle"
@@ -24,6 +24,6 @@
              MaterialOpacity=".65">
         
          </ExperimentalAcrylicMaterial>
-     </Application.Resources>
+     </Application.Resources> -->
              
 </Application>
